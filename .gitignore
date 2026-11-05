@@ -1,7 +1,5 @@
-.venv/
-__pycache__/
-*.py[cod]
-.pytest_cache/
-build/
+*.exe
+*.test
+*.out
 dist/
-*.egg-info/
+.venv/
